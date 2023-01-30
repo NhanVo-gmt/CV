@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    margin-top: -50px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h1
+{
+    color: #7286D3;
+    padding-top: 100px;
+    font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+    color: #7286D3;
+}
+
+li
+{
+    
+}
+
+.top-container
+{
+    background-color: #B9F3FC;
+}
+
+.mountain
+{
+    margin-bottom: -20px;
+}
+
+.upper-cloud
+{
+    position: absolute;
+    width: 100px;
+    top: 10%;
+}
+
+.lower-cloud
+{
+    position: absolute;
+    width: 100px;
+    left: 30%;
+}
+
+.middle-container
+{
+    background-color: white;
+    
+}
+
+#ava
+{
+    width: 250px;
+    border-radius: 50%;
+}
+
+.background
+{
+    position: relative;
+    left: 35%;
+    text-align: left;
+}
+
+.background-icon
+{
+    float: left;
+    width: 160px;
+}
+
+.background-table
+{
+    padding: 0.1px 0px 50px 200px;
+}
+
+.achievement
+{
+    position: relative;
+    left: 35%;
+    text-align: left;
+}
+
+.achievement-icon
+{
+    float: left;
+    width: 160px;
+}
+
+.achievement-table
+{
+    padding: 0px 0px 100px 50px;
+}
+
+.project-icon
+{
+    float: left;
+    width: 160px;
+}
+
+.project-table
+{
+    padding: 0px 0px 100px 0px;
+}
+
+
+.bottom-container
+{
+    text-align: center;
+}
+
+hr {
+    border-style: dotted;
+    border-top-width: 6px;
+    border-color: #8EA7E9;
+    height: 0px;
+    width: 20%;
+    clear: left;
+}
+
+li, td {
+    padding: 6px;
+}
