@@ -18,10 +18,6 @@ h2 {
     color: #7286D3;
 }
 
-li
-{
-    
-}
 
 .top-container
 {
@@ -64,6 +60,7 @@ li
     position: relative;
     left: 35%;
     text-align: left;
+    width: fit-content;
 }
 
 .background-icon
@@ -82,11 +79,12 @@ li
     position: relative;
     left: 35%;
     text-align: left;
+    width: fit-content;
 }
 
 .achievement-icon
 {
-    float: left;
+    float: right;
     width: 160px;
 }
 
@@ -101,9 +99,17 @@ li
     width: 160px;
 }
 
+.project
+{
+    position: relative;
+    left: 5%;
+    text-align: left;
+    width: fit-content;
+}
+
 .project-table
 {
-    padding: 0px 0px 100px 0px;
+    padding: 0px 0px 100px 50px;
 }
 
 
